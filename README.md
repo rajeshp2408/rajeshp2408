@@ -2,6 +2,7 @@
 
 👨‍💻Tech Enthusiastic who use github for personal skills development and Sharing, Learning and Contributing to the Engineering community.
 
+![rajeshp2408's Stats](https://github-readme-stats.vercel.app/api?username=rajeshp2408&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 <!--
 **rajeshp2408/rajeshp2408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
