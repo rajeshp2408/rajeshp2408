@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I'm Rajesh
+
+Tech Enthusiastic who use github for personal skills development and Sharing learning and contributing to Engineering comunity.
+
 
 <!--
 **rajeshp2408/rajeshp2408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
