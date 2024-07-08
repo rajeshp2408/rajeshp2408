@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Rajesh
 
-Tech Enthusiastic who use github for personal skills development and Sharing, Learning and Contributing to Engineering comunity.
+🧑‍💻Tech Enthusiastic who use github for personal skills development and Sharing, Learning and Contributing to Engineering comunity.
 
 
 <!--
